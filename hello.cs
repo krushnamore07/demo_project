@@ -4,6 +4,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("krushna");
+        Console.WriteLine("sainath");
     }
 }
